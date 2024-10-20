@@ -17,7 +17,7 @@ This project implements a simple 3-tier rule engine application with a user inte
 ## Setup and Installation
 1. Clone the repository:
    
-   git clone https://github.com/Bhaskar9143/ZeoTap-A1-master.git
+   git clone https://github.com/Bhaskar9143/ZeoTap-A1-master.git                                                                                                                                                     
    cd ZeoTap-A1-master
    
 
@@ -35,7 +35,7 @@ This project implements a simple 3-tier rule engine application with a user inte
 4. Initialize the database:
    
    flask db init                                                                                                                                                                                                    
-   flask db migrate
+   flask db migrate                                                                                                                                                                                                 
    flask db upgrade
    
 
