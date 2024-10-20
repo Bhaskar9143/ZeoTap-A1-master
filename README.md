@@ -34,7 +34,7 @@ This project implements a simple 3-tier rule engine application with a user inte
 
 4. Initialize the database:
    
-   flask db init
+   flask db init                                                                                                                                                                                                    
    flask db migrate
    flask db upgrade
    
